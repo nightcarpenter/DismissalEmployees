@@ -55,8 +55,8 @@ class Models:
 
 
     def load_datasets(self):
-        self.satisfaction = pd.read_csv('datasets/train_job_satisfaction_rate.csv')
-        self.quit = pd.read_csv('datasets/train_quit.csv')
+        self.satisfaction = pd.read_csv('streamlit/datasets/train_job_satisfaction_rate.csv')
+        self.quit = pd.read_csv('streamlit/datasets/train_quit.csv')
 
         # Удаляем id, удаляем дубликаты, разбиваем на тренировочную и тестовую выборки
         self.satisfaction = self.satisfaction.drop(columns='id')
