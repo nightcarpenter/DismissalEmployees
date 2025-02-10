@@ -1,6 +1,6 @@
 ## Разработка информационной системы, предсказывающей увольнение сотрудников
 
-### [Презентация проекта] (https://github.com/nightcarpenter/DismissalEmployees/blob/main/preza_itmo_first_wave_jmlc.pdf)
+### [Презентация проекта](https://github.com/nightcarpenter/DismissalEmployees/blob/main/preza_itmo_first_wave_jmlc.pdf)
 
 ### Краткое описание проекта
 
