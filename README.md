@@ -1,11 +1,11 @@
-# ВКР на тему: 
-## Разработка информационной системы, предсказывающей увольнение сотрудников
+### ВКР на тему: 
+### Разработка информационной системы, предсказывающей увольнение сотрудников
 
-### [Презентация](https://github.com/nightcarpenter/DismissalEmployees/blob/main/preza_itmo_first_wave_jmlc.pdf)
+#### [Презентация](https://github.com/nightcarpenter/DismissalEmployees/blob/main/preza_itmo_first_wave_jmlc.pdf)
 
-### [Исходный код](https://github.com/nightcarpenter/DismissalEmployees/blob/main/project.ipynb)
+#### [Исходный код](https://github.com/nightcarpenter/DismissalEmployees/blob/main/project.ipynb)
 
-### Краткое описание
+#### Краткое описание
 
 Заказчик предоставил данные с характеристиками сотрудников. Среди них есть уровень удовлетворённости сотрудника работой в компании. Эту информацию получили из форм обратной связи: сотрудники заполняют тест-опросник, и по его результатам рассчитывается доля их удовлетворённости от 0 до 1, где 0 – совершенно не удовлетворён, 1 – полностью удовлетворён.
 
