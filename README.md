@@ -1,6 +1,8 @@
 ### ВКР на тему: 
 ### Разработка информационной системы, предсказывающей увольнение сотрудников
 
+---
+
 #### [Презентация](https://github.com/nightcarpenter/DismissalEmployees/blob/main/preza_itmo_first_wave_jmlc.pdf)
 
 #### [Исходный код](https://github.com/nightcarpenter/DismissalEmployees/blob/main/project.ipynb)
