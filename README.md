@@ -5,6 +5,7 @@
 
 #### [Исходный код](https://github.com/nightcarpenter/DismissalEmployees/blob/main/project.ipynb)
 
+---
 
 ##### Краткое описание
 
